@@ -4,9 +4,10 @@
 - https://github.com/pluvial/lib
 - https://github.com/jpaquim/dotfiles
 
-### Svelte projects:
+### Svelte projects
 
 - https://github.com/pluvial/svelte-adapter-deno
+- https://github.com/pluvial/sveltesse
 - https://github.com/jpaquim/svelte-bauble
 - https://github.com/jpaquim/svelte-gltut
 - https://github.com/jpaquim/svelte-webgl-fluid-simulation
@@ -31,7 +32,7 @@
 - https://github.com/jpaquim/crafting-interpreters-deno-zig
 - https://github.com/jpaquim/mark-sweep-zig
 
-#### Misc
+#### Graphics
 
 - https://github.com/jpaquim/raytracing-zig
 - https://github.com/jpaquim/ray-tracer-challenge
